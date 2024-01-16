@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "task": "Aufräumen",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "Einkaufen",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "task": "Sport machen",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Backend lernen",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "task": "Mandarinschalen wegwerfen",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "task": "Papierkram erledigen",
+    "completed": false
+  },
+  {
+    "id": 1705413114762,
+    "task": "Scheißen",
+    "completed": false
+  }
+]
